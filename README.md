@@ -1,5 +1,5 @@
-# Malicious Country Block
-## Blocks malicious countries in iptables with ipset blocklists
+# Malicious IP Block
+## Blocks malicious country ranges in iptables with ipset blocklists
 
 ### Usage
 Running this script will block *all* IPv4 and IPv6 traffic from the listed countries, deemed malicious due to their high rates of cybercrime.
